@@ -28,6 +28,10 @@ body {
     width: 100%;
 }
 
+
+/* HEADER */
+
+
 .header {
     display: flex;
     height: 88px;
@@ -176,6 +180,10 @@ body {
 }
 
 
+/* HEADER END */
+
+
+/* MAIN */
 
 .skillset-section {
 
@@ -769,6 +777,12 @@ body {
     text-align: left;
 }
 
+
+/* MAIN END */
+
+
+/* FOOTER */
+
 .contact-footer {
     border: solid;
     border-color: rgba(0, 0, 0, 0);
@@ -816,3 +830,4 @@ body {
 }
 
 
+/* FOOTER END */
