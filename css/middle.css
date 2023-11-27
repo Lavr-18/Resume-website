@@ -1,0 +1,176 @@
+@media screen and (max-width: 1050px) {
+    
+    .header {
+        height: 150px;
+    }
+
+    .vector {
+        margin: 4px 15px;
+    }
+    
+    .vector-photo {
+        width: 154px; 
+        height: 133px;
+    }
+
+    .nav {
+        display: flex;
+        font-size: 24px;
+        font-weight: 400;
+        text-align: center;
+        width: 700px;
+        margin-left: 540px;
+    }
+
+
+    .nav-skillset {
+        width: 150px;
+
+        padding-top: 55px;
+        transition: color 0.3s linear;
+    
+    }
+    
+    
+    .nav-experience {
+        width: 150px;
+
+        padding-top: 55px;
+    }
+    
+    .nav-projects {
+        width: 150px;
+
+        padding-top: 55px;
+    }
+    
+    .nav-contact {
+        width: 150px;
+
+        border-radius: 10%;
+        padding-top: 55px;
+        background: #5221E6;
+    
+    }
+
+
+
+    .about-section {
+        height: 850px;   
+    }
+
+    .about-text-rectangle {
+        position: absolute;
+        width: 500px;
+        top: 100px;
+        right: 0px;
+        align-items:flex-start;
+        bottom: auto;
+    }
+
+
+    
+    .about-photo{
+        position: absolute;
+
+        margin-left: 15px;
+        margin-right: auto;
+        height: 820px;
+        border-radius: 3%;
+
+    }
+
+
+    .about-text-add {
+        z-index: 1;
+    
+        
+        word-wrap:break-word;
+        margin: 30px 0 0;
+        color: white;
+        
+        font-family: Sen;
+        font-size: 18px;
+        font-weight: 400;
+        line-height: 27px;
+        text-align: left;
+    
+    }
+
+
+    .skillset-section {
+        display: inline;
+    }
+    
+    .experience-section-main-text {
+        width: 610px;
+    }
+
+    .experience-items {    
+        width: 300px;
+        height: 369px;
+    }
+
+
+    .experience-items-main-text {
+        margin-top: 50px;
+    }
+    
+    .projects-section-text {
+        margin-left: 320px;
+    }
+
+
+    .youTube-downloader-bot, .converter-bot, .web-site, .soon-projects {
+        width: 800px;
+        height: max-content;
+        margin-left: 320px;
+        margin-top: 50px;
+    }
+
+    
+    .projects-text {
+        width: 736px;
+        height: 170px;
+        padding: 40px 32px;
+        background-color: #181823;
+    }
+    
+    .projects-main-text {
+        font-size: 50px;
+    }
+
+    .projects-add-text {
+        font-size: 24px;
+    }
+
+    .viev-all-projects {
+        width: 575px;
+        height: 135px;
+    
+        margin: 50px auto;
+    }
+
+
+    .contact-main-text {
+        font-size: 60px;
+    
+    }
+    
+    .contact-add-text {
+        font-size: 22px;
+    }
+
+    .contact-input {
+        width: 526px;
+        height: 491px;
+    
+        margin: 20px auto;
+        display: block;
+    }
+
+}
+
+
+
+
