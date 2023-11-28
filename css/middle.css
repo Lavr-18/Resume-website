@@ -1,5 +1,6 @@
 @media screen and (max-width: 1050px) {
     
+   
     .header {
         height: 150px;
     }
@@ -7,53 +8,6 @@
     .vector {
         margin: 4px 15px;
     }
-    
-    .vector-photo {
-        width: 154px; 
-        height: 133px;
-    }
-
-    .nav {
-        display: flex;
-        font-size: 24px;
-        font-weight: 400;
-        text-align: center;
-        width: 700px;
-        margin-left: 540px;
-    }
-
-
-    .nav-skillset {
-        width: 150px;
-
-        padding-top: 55px;
-        transition: color 0.3s linear;
-    
-    }
-    
-    
-    .nav-experience {
-        width: 150px;
-
-        padding-top: 55px;
-    }
-    
-    .nav-projects {
-        width: 150px;
-
-        padding-top: 55px;
-    }
-    
-    .nav-contact {
-        width: 150px;
-
-        border-radius: 10%;
-        padding-top: 55px;
-        background: #5221E6;
-    
-    }
-
-
 
     .about-section {
         height: 850px;   
@@ -61,7 +15,7 @@
 
     .about-text-rectangle {
         position: absolute;
-        width: 500px;
+        width: 650px;
         top: 100px;
         right: 0px;
         align-items:flex-start;
@@ -73,8 +27,7 @@
     .about-photo{
         position: absolute;
 
-        margin-left: 15px;
-        margin-right: auto;
+        left: 15px;
         height: 820px;
         border-radius: 3%;
 
@@ -86,7 +39,7 @@
     
         
         word-wrap:break-word;
-        margin: 30px 0 0;
+        margin: 30px 10px 0;
         color: white;
         
         font-family: Sen;
@@ -101,6 +54,11 @@
     .skillset-section {
         display: inline;
     }
+
+    .skillset-section-block {
+        margin-left: -73px;
+    }
+    
     
     .experience-section-main-text {
         width: 610px;
@@ -109,6 +67,7 @@
     .experience-items {    
         width: 300px;
         height: 369px;
+        margin-left: 10px;
     }
 
 
