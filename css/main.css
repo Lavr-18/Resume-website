@@ -16,6 +16,7 @@ body {
 
 .container {
     width: 1550px;
+    margin: 0 auto;
 }
 
 
@@ -638,7 +639,6 @@ nav a#pull {
 }
 
 .contact-input-button {
-    /*  */
     background-color: #5221E6;
     position: absolute;
     border: none;

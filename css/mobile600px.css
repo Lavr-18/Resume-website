@@ -1,0 +1,400 @@
+@media screen and (max-width: 600px) {
+    
+    .container {
+        width: 500px;
+        margin: 0 10px;        
+    }
+
+    header {
+        height: 100px;
+        width: 550px;
+    }
+
+    .vector-photo {
+        width: auto; 
+        height: 90px;
+    }
+
+    nav {
+        border-bottom: 0;
+    }
+
+    nav ul {
+        display: none;
+        height: auto;
+    }
+
+    nav a#pull {
+        display: block;
+        margin-right: 16px;
+        margin-top: 0px;
+    }
+
+    
+    .about-section {
+        position: static;
+        display: inline; 
+    }
+    
+    .photo-rectangle {
+        margin: 20px auto;
+        width: 90%;
+        height: max-content;
+    }
+    
+    .about-photo{
+
+        position: static;
+    
+        width: 100%;
+        height: auto;    
+    }
+    
+    
+    .about-text-rectangle {
+        
+        position: static;
+        width: 500px;
+        
+        margin-left: 30px;
+    }
+    
+    
+    .about-text {
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+    
+    .about-text-add {
+        margin-top: 50px;
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 50px;
+    }
+    
+
+   
+    .skillset-rectangle {
+        width: 500px;
+        margin: 30px;
+        margin-top: 150px;
+    }
+    
+    .skillset-text {
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;
+
+    }
+
+
+    .skillset-text-add{
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .skillset-section-block {
+        margin-top: -90px;
+    }
+
+    .first-line {
+        display: inline;
+    }
+
+    .second-line {
+        display: inline;
+    }
+
+
+    .programming-languages, .web-development, .languages, .other {
+        
+        min-width: 500px;
+        max-width: 530px;
+        
+        margin-top: -90px;
+        margin-left: 103px;
+        margin-right: 103px;
+
+    }
+    
+    .programming-languages-text, .web-development-text, .languages-text, .other-text {
+        padding-top: 8px;
+        min-width: 500px;
+        max-width: 530px;
+        
+    
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+    
+    .programming-languages-text-add, .web-development-text-add, .languages-text-add, .other-text-add {
+        min-width: 500px;
+        max-width: 530px;
+        
+        font-size: 30px;
+        line-height: 50px;
+    }
+
+    .skillset-photo {
+        width: 80px;
+    }
+    
+    .skillset-photo-last {
+        width: 77px;
+    }
+
+    .skillset-footer {
+        display: none;
+        
+    }
+    
+
+    .experience-section {
+        margin: 30px;
+    }
+
+    .off {
+        display: none;
+    }
+
+    .experience-section-text {
+        
+        margin-left: 0px;
+    }
+    
+    .experience-section-add-text {
+        font-size: 40px;
+        font-weight: 400;
+        line-height: 60px;
+    }
+
+    .experience-section-main-text {
+        width: 500px;
+
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+
+    .experience-rectangle {
+        height: auto;
+        display: inline;
+        min-width: 500px;
+        max-width: 530px;
+        
+        margin-top: 9px;
+        margin-right: 30px;
+    
+    }
+
+
+    .experience-items { 
+          
+        min-width: 500px;
+        max-width: 530px;
+        
+        margin-left: 0;
+        height: 369px;
+        margin-top: 80px;
+
+    }
+
+
+    .experience-items-main-text {
+        min-width: 500px;
+        max-width: 530px;
+        
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;     
+    }
+
+    .experience-items-add-text {
+        margin-top: 50px;
+        min-width: 500px;
+        max-width: 530px;
+
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 50px;    
+    }
+
+    .projects {
+        width: 500px;
+    }
+    
+    .projects-section {
+        width: 500px;
+        
+        margin: 30px;
+        margin-left: 25px;
+        margin-top: 300px;
+    }
+
+    .projects-section-text {
+        width: inherit;
+        margin-top: -150px;
+        margin-left: 0px;
+    }
+
+    .projects-section-main-text {
+        width: 500px;
+        
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px; 
+    }
+
+    .projects-section-add-text {
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 50px;
+    }
+
+
+    .youTube-downloader-bot, .converter-bot, .web-site, .soon-projects {
+        width: 500px;
+        
+        margin-left: 0;
+    }
+
+    .projects-photo {
+        width: 500px;
+    }
+
+    
+    .projects-text {
+        width: 437px;
+        padding: 40px 32px;
+    }
+    
+    .projects-main-text {
+        font-size: 30px;
+        line-height: 30px;
+    }
+
+    .projects-add-text {
+        font-size: 20px;
+        font-weight: 400;
+        line-height: 40px;
+    }
+
+    .projects-icons {
+        width: 40px;
+    }
+
+    .viev-all-projects {
+        width: 500px;
+    }
+
+    .viev-all-projects-button {       
+        height: 80px;
+        width: 400px;
+        margin: 0px 50px;
+    }
+    
+    .viev-all-projects-button-press {
+        margin: 0px auto;
+    
+        height: 80px;
+        
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 40px;    
+    }
+
+    .plug {
+        height: 100px;
+    }
+
+    .contact {
+        display: inline;
+        margin-bottom: -300px;
+    }
+
+    .contact-text {
+        width: 500px;
+        margin-left: 30px;
+    }
+
+    .contact-main-text {
+        min-width: 500px;
+        max-width: 530px;
+
+        color: #5221E6;
+        font-size: 70px;
+        font-weight: 800;
+        line-height: 90px;
+    }
+    
+    .contact-add-text {
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 50px;
+    }
+
+    .contact-input {
+        min-width: 500px;
+        max-width: 530px;
+        
+        margin-left: 30px;
+        margin-right: 30px;
+        margin-top: 60px;
+        margin-bottom: 300px;
+    
+        
+    }
+
+    .contact-input-name, .contact-input-email, .contact-input-message {
+        width: 500px;
+        font-size: 30px;
+        font-weight: 400;
+        line-height: 50px;
+        margin-left: -5px;
+    }
+
+    .contact-input-name-input, .contact-input-email-input {
+        height: 80px;
+        width: 500px;
+        margin-right: 30px
+    }
+
+    .contact-input-message-input {
+        height: 160px;
+        width: 500px;
+        margin-right: 30px
+    }
+
+
+    .contact-input-button {
+        position: static;
+
+        height: 120px;
+        width: auto;
+        margin-left: 0px;
+        margin-top: 60px;
+        margin-right: 30px;
+    
+    }
+    
+    .contact-input-button-text {
+        margin: 0px auto;
+    
+        height: 120px;
+        min-width: 500px;
+        max-width: 530px;
+        
+        
+        font-size: 30px;
+        font-weight: 700;
+        line-height: 40px;    
+    }
+
+    footer {
+        display: none;
+    }
+
+
+}
